@@ -37,4 +37,5 @@ import { LoadingComponent } from './components/shared/loading/loading.component'
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
